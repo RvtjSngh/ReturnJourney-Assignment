@@ -1,5 +1,3 @@
-ReturnJourney-Assignment
-
 # Optimized Item List
 
 ## Setup
